@@ -1,4 +1,4 @@
-# tk_Piano
+# TK_Piano
 
 Extension for TechnokidsPh Piano
 
